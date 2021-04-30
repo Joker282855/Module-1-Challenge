@@ -4,7 +4,7 @@
 
 ## Assignment Tasks:
 1. Add semantic elements to the source code
-2. Ghe structure of the html elments are logical
+2. Structure of the html elments are logical
 3. Give the images an alt attribute
 4. Make sure the heading elements are listed in sequential order
 5. Give the Horiseon website a short descriptive title
