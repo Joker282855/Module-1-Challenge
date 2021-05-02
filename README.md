@@ -13,10 +13,10 @@
 * Adjusting HTML Elements
 
 ## Website:
-<a href="C:/Users/jtjac/OneDrive/Documents/Bootcamp/Module-1-Challenge/Challenge/index.html">Link To Horiseon Website</a>
+<a href="./Challenge/index.html">Link To Horiseon Website</a>
 
 ## Screenshot of Website:
-![Alt text](./images/Screenshot.png)
+<img src="./Challenge/assets/images/Screenshot.png" alt="Website Screenshot" />
 
 ## Built With
 * HTML
