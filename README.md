@@ -15,6 +15,9 @@
 ## Website:
 <a href="C:/Users/jtjac/OneDrive/Documents/Bootcamp/Module-1-Challenge/Challenge/index.html">Link To Horiseon Website</a>
 
+## Screenshot of Website:
+![Alt text](./images/Screenshot.png)
+
 ## Built With
 * HTML
 * CSS
