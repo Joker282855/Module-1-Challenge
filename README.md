@@ -13,7 +13,7 @@
 * Adjusting HTML Elements
 
 ## Website:
-file:///C:/Users/jtjac/OneDrive/Documents/Bootcamp/Module-1-Challenge/Challenge/index.html#search-engine-optimization
+<a href="C:/Users/jtjac/OneDrive/Documents/Bootcamp/Module-1-Challenge/Challenge/index.html">Link To Horiseon Website</a>
 
 ## Built With
 * HTML
